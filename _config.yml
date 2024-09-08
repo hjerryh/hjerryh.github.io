@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: 'git'
   repo: 'https://github.com/hjerryh/hjerryh.github.io'
-  branch: gh-pages
+  branch: main
