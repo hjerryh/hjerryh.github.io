@@ -102,5 +102,5 @@ theme: hexo-theme-Chic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/hjerryh/hjerryh.github.io.git
+  repo: git@github.com:hjerryh/hjerryh.github.io.git
   branch: main
